@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '25007'
     url: http://www.gutenberg.org/2009/agents/25007
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30727#Motor-Boat-Boys-Down-the-Coastor-Through-Storm-and-Stress-to-Florida
 gutenberg_issued: '2009-12-21'
 gutenberg_type: Text
 identifiers:
