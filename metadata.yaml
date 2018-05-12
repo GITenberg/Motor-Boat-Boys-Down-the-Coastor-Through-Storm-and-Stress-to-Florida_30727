@@ -1,0 +1,25 @@
+_repo: Motor-Boat-Boys-Down-the-Coastor-Through-Storm-and-Stress-to-Florida_30727
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30727-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Arundel, Louis
+    gutenberg_agent_id: '25007'
+    url: http://www.gutenberg.org/2009/agents/25007
+description: ''
+gutenberg_issued: '2009-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30727'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Atlantic Intracoastal Waterway -- Juvenile fiction'
+- !lcsh 'Motorboats -- Juvenile fiction'
+title: Motor Boat Boys Down the Coast; or, Through Storm and Stress to Florida
+url: http://www.gutenberg.org/ebooks/30727
